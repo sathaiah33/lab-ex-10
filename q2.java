@@ -7,7 +7,7 @@ package labno10;
 import java.io.File; 
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 public class q2 {
     public static void main(String[] args) { 
