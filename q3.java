@@ -7,7 +7,7 @@ package labno10;
 import java.io.*;
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 public class q3 {
     public static void main(String args[]) throws IOException {        
