@@ -12,7 +12,7 @@ import java.io.IOException;
 
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 public class q1 {
     public static void main(String[] args) throws FileNotFoundException, IOException {
